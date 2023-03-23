@@ -20,7 +20,7 @@
 The first milestone in the process of creating my portfolio website:
 
 Set up a new repository and prepare it for development using best practices (e.g. linters).
-Build the first 2 sections of the mobile website using the template you chose in the previous step.
+Build the first 2 sections of the mobile website.
 
 ## 🛠 Built With <a name="built-with"></a>
 
