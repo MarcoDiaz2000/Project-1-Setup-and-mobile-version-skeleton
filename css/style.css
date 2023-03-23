@@ -7,8 +7,6 @@ body {
   flex-direction: column;
   width: 375px;
   height: 768px;
-
-
   background: url(../images/back1.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -40,9 +38,11 @@ header .mylogo {
   order: 0;
   flex-grow: 0;
 }
+
 .mobilmenu{
   color: #6070ff;
 }
+
 .hero {
   height: 140px;
   margin-top: 30px;
@@ -51,7 +51,7 @@ header .mylogo {
 }
 
 .title {
-  margin-bottom: 15px;  
+  margin-bottom: 15px;
   width: 327px;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
@@ -88,7 +88,7 @@ header .mylogo {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  color: #7f8Cff;
+  color: #7f8cff;
   flex: none;
   order: 0;
   flex-grow: 0;
@@ -98,7 +98,6 @@ header .mylogo {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  padding: 0px;
   gap: 16px;
   width: 117px;
   height: 24px;
