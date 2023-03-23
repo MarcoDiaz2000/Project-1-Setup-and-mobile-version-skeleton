@@ -22,13 +22,12 @@ header {
   margin-top: 40px;
 }
 
-nav {
+.navflex {
   display: flex;
+  width: 100%;
   align-items: center;
   justify-content: space-between;
-  padding-left: 20px;
-  padding-right: 30px;
-  margin-top: 40px;
+  padding-right: 15px;
 }
 
 header .mylogo {
