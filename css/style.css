@@ -22,6 +22,15 @@ header {
   margin-top: 40px;
 }
 
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 30px;
+  margin-top: 40px;
+}
+
 header .mylogo {
   width: 76px;
   height: 20px;
@@ -94,15 +103,24 @@ header .mylogo {
   flex-grow: 0;
 }
 
+.social {
+  width: 170.17px;
+  height: 20px;
+  flex: none;
+  order: 3;
+  flex-grow: 0;
+}
+
 .socialicon {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   gap: 16px;
-  width: 117px;
+  width: 327px;
   height: 24px;
   flex: none;
   order: 2;
   flex-grow: 0;
   list-style: none;
+  padding: 0%;
 }
